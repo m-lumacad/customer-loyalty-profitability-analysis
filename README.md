@@ -1,5 +1,3 @@
-# Customer Loyalty & Profitability Analysis
-
 ## Business Question
 How can EskweTravel improve profitability by increasing loyalty program enrollment among non-member customers?
 
